@@ -25,7 +25,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="Dmitry Volkov">
-	<title>iJ – Job Board & Freelance Services Marketplace HTML Template</title>
+	<title>ServicePro</title>
 </head>
 
 <body>
