@@ -11,7 +11,7 @@
                         </div>
                     </div>
                     <div class="user__title">
-                        <h2>John Doe</h2>
+                        <h2>Jorem Belen</h2>
                         <p>Front-end Developer</p>
                     </div>
                     <div class="user__btns">
