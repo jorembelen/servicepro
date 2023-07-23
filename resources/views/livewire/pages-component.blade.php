@@ -15,7 +15,7 @@
                         <p>Front-end Developer</p>
                     </div>
                     <div class="user__btns">
-                        <a href="add-project.html" class="user__btn user__btn--blue"><span>Post a project</span></a>
+                        <a href="add-project.html" class="user__btn user__btn--blue"><span>Post a projects</span></a>
                         <a href="add-job.html" class="user__btn user__btn--orange"><span>Post a job</span></a>
                     </div>
                     <ul class="user__stats">
